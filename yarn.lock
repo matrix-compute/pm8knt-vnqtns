@@ -128,10 +128,10 @@
     ora "5.4.1"
     rxjs "7.8.1"
 
-"@angular/animations@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-17.3.0.tgz#8dd498aff5bc75b60409d5ea5442d0200e538d01"
-  integrity sha512-H7R3c2E479CPpaX6bU84F8u4JV+IFEfM8BUOgrbcI9tF16m6C2eJbl8IqNuW0yADuTarRSlOT7TW0qyrmcxhRw==
+"@angular/animations@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-17.3.11.tgz#86e5c6a1fbf9b7e2bf5441e334db5b8b2132be2d"
+  integrity sha512-1y1Egag5jbdUSUWVK+KA39N9VFDrzq9ObjbAhrXFlXKa0npBRw5bprEEeLFQMETMP9Mpjbmj2PoASfl4vqj/Iw==
   dependencies:
     tslib "^2.3.0"
 
@@ -168,10 +168,10 @@
     symbol-observable "4.0.0"
     yargs "17.7.2"
 
-"@angular/common@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-17.3.0.tgz#d7151a1ffeb52a10e00496f850f477f1e121d66f"
-  integrity sha512-JnS6jbLl2RxsvGFUOBGeoyviNLEjZKRhn3uK4Ein3DENPv0BeSFMjif9Dp4ReUCnqoD4QQVG0X/r1GFaqHn2pw==
+"@angular/common@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-17.3.11.tgz#1698a0a93d3dab6e52da9d6600e8fba3a63a4e68"
+  integrity sha512-WG+HQjUaQziYLGdbcv2aW+G73uroN5VF9yk4qWYcolW+VB8SV/DOAol8uFVgCF21cIOl5+wfJZvA4r5oG3dYaw==
   dependencies:
     tslib "^2.3.0"
 
@@ -189,24 +189,24 @@
     tslib "^2.3.0"
     yargs "^17.2.1"
 
-"@angular/compiler@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-17.3.0.tgz#204d930c372ef556a18ea62cc93de2fc13d6aac8"
-  integrity sha512-lZBD5mFq7SzFJydZwW2jvnQGmtcU1s3e548hl4MSZpRgt13m5UmBQKbyMOvVN2WxKvWKlmDlywsAJlMSXepYig==
+"@angular/compiler@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-17.3.11.tgz#ecf1138bbb69be4cb7a7bf88a71f4ad93128b466"
+  integrity sha512-ingRoREDPkeZGSa13DlztSjZgGArNcmsAWjj+f+vQgQekTjkfQD/N+Bix/LSt5ZdbSjHMtrkDMyRPwbNyk5Keg==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-17.3.0.tgz#24eca359f4d530ac96d5e93679d39d910ae1a5b9"
-  integrity sha512-umwsNFl/wEMTCUVvNl5iieEgHA+ESxSMcjedZGFWNGnpUxKTgYFYNG41/1wNZfPrS0+uRPHuYU9IHD+NR2s/Rw==
+"@angular/core@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-17.3.11.tgz#8de94fbb986ceec7e96356a60c9edf98131ae97b"
+  integrity sha512-2wPZwXFei3kVxK2ylIH6CdGebrC4kvooFx7qoX+250OITAEFMODJGdh/e3x0DpFUjlRvQtIFQ+YpQlfC5JnL4g==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/forms@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-17.3.0.tgz#7c6a0ea38184629722a57c6df233ea4c34dfbdc3"
-  integrity sha512-TnLOake1fQCmmGEOZbTjP2gbKerZ/bfEMuiFfoe7R2rUvKl4xHGAHp99bqf7bUyAbB8ZgmPZc9/VHrrts8UNyA==
+"@angular/forms@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-17.3.11.tgz#5e37ff81964e184fbb98b1f016fe3062dd5d2571"
+  integrity sha512-719flo/1L64YOAxL3pzszTK+7bczVVOQDXT1khnjb48GVZdBUBwW2D+cFbqSW1VMuWWr2Amwy1lL4YM5S7qPJQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -335,24 +335,24 @@
     "@material/typography" "15.0.0-canary.7f224ddd4.0"
     tslib "^2.3.0"
 
-"@angular/platform-browser-dynamic@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-17.3.0.tgz#c19a89433cd20daf2a97c84838aebcb8769440db"
-  integrity sha512-oX5AG0aSjmB89SyJZGyabr6uwfWd7yJM+krcrzHxFbVhvDCwdi9G+B0ADmaUn1shaXDseOFiLpo3R/oagd2fTA==
+"@angular/platform-browser-dynamic@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-17.3.11.tgz#d578cefbba24800e94756338a7789dbe8014b63b"
+  integrity sha512-JPA0enJyJQ5H340WQ2wfXbCCHzjBiAljEDMr/Siw/CzSe0XI8aQYDqKMLUMtRyCdYhNCEYjnBWgXBi9Za9blZg==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/platform-browser@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-17.3.0.tgz#5b6e14d5db76a9a96dd0a1ec9360d4a4c7a6091e"
-  integrity sha512-sIquvbq04KMOdpk1VdVFt7kVhOk/Rk+hI3M4raarMK5EbZ16nLYzpqjc2OZetUpKy6LB/FemClgNUShj9NlrqA==
+"@angular/platform-browser@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-17.3.11.tgz#44c4814b76c3de43496159d76e19913f8d331744"
+  integrity sha512-sWjMy8qKH6AOt5YV4OMoPhExCbGdRIPjNSwUrxCm8a8Zz5DamoX3Sib9yRk1etjBuRj+oJySSxISJim2OYXJQQ==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/router@^17.3.0":
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-17.3.0.tgz#b6d0ea13b5330f4114555a59596c15a2ee166e28"
-  integrity sha512-OBMAfjaSfEdEYqfYsAemDvknYZV69ABFf06hhduNLhB5QgbPrZCbNptnlrCPx4YDrzcANj2hrcyAmAVNTk8Giw==
+"@angular/router@^17.3.10":
+  version "17.3.11"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-17.3.11.tgz#fd28e6b7f836683c571f2ed50eae6b97e6383038"
+  integrity sha512-A3aU6uHAeJfsfCw1dgNXHn2Kjw/UieRMnFwENkzz96YFCvFPCEZjy/mODuE3zHludMuqVsJhM/uUxWu8ATRTcA==
   dependencies:
     tslib "^2.3.0"
 
@@ -4273,11 +4273,59 @@ esbuild@0.20.1:
   version "0.20.1"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.20.1.tgz#1e4cbb380ad1959db7609cb9573ee77257724a3e"
   integrity sha512-OJwEgrpWm/PCMsLVWXKqvcjme3bHNpOgN7Tb6cQnR5n0TPbQx1/Xrn7rqM+wn17bYeT6MGB5sn1Bh5YiGi70nA==
+  optionalDependencies:
+    "@esbuild/aix-ppc64" "0.20.1"
+    "@esbuild/android-arm" "0.20.1"
+    "@esbuild/android-arm64" "0.20.1"
+    "@esbuild/android-x64" "0.20.1"
+    "@esbuild/darwin-arm64" "0.20.1"
+    "@esbuild/darwin-x64" "0.20.1"
+    "@esbuild/freebsd-arm64" "0.20.1"
+    "@esbuild/freebsd-x64" "0.20.1"
+    "@esbuild/linux-arm" "0.20.1"
+    "@esbuild/linux-arm64" "0.20.1"
+    "@esbuild/linux-ia32" "0.20.1"
+    "@esbuild/linux-loong64" "0.20.1"
+    "@esbuild/linux-mips64el" "0.20.1"
+    "@esbuild/linux-ppc64" "0.20.1"
+    "@esbuild/linux-riscv64" "0.20.1"
+    "@esbuild/linux-s390x" "0.20.1"
+    "@esbuild/linux-x64" "0.20.1"
+    "@esbuild/netbsd-x64" "0.20.1"
+    "@esbuild/openbsd-x64" "0.20.1"
+    "@esbuild/sunos-x64" "0.20.1"
+    "@esbuild/win32-arm64" "0.20.1"
+    "@esbuild/win32-ia32" "0.20.1"
+    "@esbuild/win32-x64" "0.20.1"
 
 esbuild@^0.19.3:
   version "0.19.12"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.19.12.tgz#dc82ee5dc79e82f5a5c3b4323a2a641827db3e04"
   integrity sha512-aARqgq8roFBj054KvQr5f1sFu0D65G+miZRCuJyJ0G13Zwx7vRar5Zhn2tkQNzIXcBrNVsv/8stehpj+GAjgbg==
+  optionalDependencies:
+    "@esbuild/aix-ppc64" "0.19.12"
+    "@esbuild/android-arm" "0.19.12"
+    "@esbuild/android-arm64" "0.19.12"
+    "@esbuild/android-x64" "0.19.12"
+    "@esbuild/darwin-arm64" "0.19.12"
+    "@esbuild/darwin-x64" "0.19.12"
+    "@esbuild/freebsd-arm64" "0.19.12"
+    "@esbuild/freebsd-x64" "0.19.12"
+    "@esbuild/linux-arm" "0.19.12"
+    "@esbuild/linux-arm64" "0.19.12"
+    "@esbuild/linux-ia32" "0.19.12"
+    "@esbuild/linux-loong64" "0.19.12"
+    "@esbuild/linux-mips64el" "0.19.12"
+    "@esbuild/linux-ppc64" "0.19.12"
+    "@esbuild/linux-riscv64" "0.19.12"
+    "@esbuild/linux-s390x" "0.19.12"
+    "@esbuild/linux-x64" "0.19.12"
+    "@esbuild/netbsd-x64" "0.19.12"
+    "@esbuild/openbsd-x64" "0.19.12"
+    "@esbuild/sunos-x64" "0.19.12"
+    "@esbuild/win32-arm64" "0.19.12"
+    "@esbuild/win32-ia32" "0.19.12"
+    "@esbuild/win32-x64" "0.19.12"
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -6732,6 +6780,19 @@ rollup@^4.2.0:
   dependencies:
     "@types/estree" "1.0.5"
   optionalDependencies:
+    "@rollup/rollup-android-arm-eabi" "4.10.0"
+    "@rollup/rollup-android-arm64" "4.10.0"
+    "@rollup/rollup-darwin-arm64" "4.10.0"
+    "@rollup/rollup-darwin-x64" "4.10.0"
+    "@rollup/rollup-linux-arm-gnueabihf" "4.10.0"
+    "@rollup/rollup-linux-arm64-gnu" "4.10.0"
+    "@rollup/rollup-linux-arm64-musl" "4.10.0"
+    "@rollup/rollup-linux-riscv64-gnu" "4.10.0"
+    "@rollup/rollup-linux-x64-gnu" "4.10.0"
+    "@rollup/rollup-linux-x64-musl" "4.10.0"
+    "@rollup/rollup-win32-arm64-msvc" "4.10.0"
+    "@rollup/rollup-win32-ia32-msvc" "4.10.0"
+    "@rollup/rollup-win32-x64-msvc" "4.10.0"
     fsevents "~2.3.2"
 
 run-async@^3.0.0:
@@ -7203,7 +7264,16 @@ streamroller@^3.1.5:
     debug "^4.3.4"
     fs-extra "^8.1.0"
 
-"string-width-cjs@npm:string-width@^4.2.0", "string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.3:
+"string-width-cjs@npm:string-width@^4.2.0":
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
+  integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
+  dependencies:
+    emoji-regex "^8.0.0"
+    is-fullwidth-code-point "^3.0.0"
+    strip-ansi "^6.0.1"
+
+"string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.3:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -7235,7 +7305,14 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-"strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+"strip-ansi-cjs@npm:strip-ansi@^6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
+  integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
+  dependencies:
+    ansi-regex "^5.0.1"
+
+strip-ansi@^6.0.0, strip-ansi@^6.0.1:
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -7753,7 +7830,7 @@ wildcard@^2.0.0:
   resolved "https://registry.yarnpkg.com/wildcard/-/wildcard-2.0.0.tgz#a77d20e5200c6faaac979e4b3aadc7b3dd7f8fec"
   integrity sha512-JcKqAHLPxcdb9KM49dufGXn2x3ssnfjbcaQdLlfZsL9rH9wgDQjUtDxbo8NE0F6SFvydeu1VhZe7hZuHsB2/pw==
 
-"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
@@ -7766,6 +7843,15 @@ wrap-ansi@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-6.2.0.tgz#e9393ba07102e6c91a3b221478f0257cd2856e53"
   integrity sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA==
+  dependencies:
+    ansi-styles "^4.0.0"
+    string-width "^4.1.0"
+    strip-ansi "^6.0.0"
+
+wrap-ansi@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
+  integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
   dependencies:
     ansi-styles "^4.0.0"
     string-width "^4.1.0"
